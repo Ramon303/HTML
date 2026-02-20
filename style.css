@@ -1,0 +1,37 @@
+
+body {
+    background-color: #f0f2f5;
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+
+
+nav {
+    padding: 10px;
+}
+
+
+.contenedor {
+    width: 80%;
+    margin: auto;
+    margin-top: 40px;
+}
+
+
+.caja {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0,0,0,0.2);
+}
+
+
+img {
+    width: 150px;
+    border-radius: 50%;
+}
+
+
+input {
+    margin-bottom: 10px;
+}
